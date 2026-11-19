@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="RadioTask" extends="Task">
+    <interface>
+        <field id="searchTag" type="string" />
+        <field id="searchName" type="string" />
+        <field id="curatedStations" type="roArray" />
+        <field id="stations" type="roArray" />
+        <field id="status" type="string" value="idle" />
+        <field id="artworkQuery" type="string" />
+        <field id="fallbackArtQuery" type="string" />
+        <field id="artworkUrl" type="string" value="" />
+    </interface>
+    <script type="text/brightscript" uri="pkg:/components/RadioTask.brs" />
+</component>

@@ -1,0 +1,17 @@
+# Channel Details
+title=Classroom Holiday Frame & Radio
+major_version=2
+minor_version=1
+build_version=1
+
+# Channel Cover Icons & Splash Screens
+mm_icon_focus_fhd=pkg:/channel_icon_fhd.png
+mm_icon_focus_hd=pkg:/channel_icon_hd.png
+mm_icon_focus_sd=pkg:/channel_icon_sd.png
+splash_screen_fhd=pkg:/splash_fhd.png
+splash_screen_hd=pkg:/splash_hd.png
+splash_color=#0E1626
+splash_min_time=1000
+
+# Screen Resolution (Full HD 1080p)
+ui_resolutions=fhd
